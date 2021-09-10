@@ -30,4 +30,4 @@ python tools/train.py configs/pascal_voc/faster_rcnn_r50_fpn_2x_voc0712.py
 python tools/test.py configs/pascal_voc/faster_rcnn_r50_fpn_2x_voc0712.py work_dirs/faster_rcnn_r50_fpn_2x_voc0712/latest.pth --eval mAP
 ***
 
-**Please feel free to contact us for any questions or comments: Jiewei Jiang, E-mail: jiangjw924@126.com or Zhongwen Li, E-mail: li.zhw@qq.com.
+**Please feel free to contact us for any questions or comments: Jiewei Jiang, E-mail: jiangjw924@126.com or Zhongwen Li, E-mail: li.zhw@qq.com.**
