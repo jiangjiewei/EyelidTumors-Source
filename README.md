@@ -50,4 +50,4 @@ python eyetumor_testing_V1.py
 The representative samples for malignant and benign eyelid tumors are presented in /EyelidTumors-Source/sample.  
 The expected output: print the classification probabilities for malignant and benign eyelid tumors.
 
-**Please feel free to contact us for any questions or comments: Jiewei Jiang, E-mail: jiangjw924@126.com or Zhongwen Li, E-mail: li.zhw@qq.com.
+**Please feel free to contact us for any questions or comments: Jiewei Jiang, E-mail: jiangjw924@126.com or Zhongwen Li, E-mail: li.zhw@qq.com.**
